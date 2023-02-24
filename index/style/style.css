@@ -1,0 +1,66 @@
+*
+{
+    display: inline-block;
+}
+header
+{
+    padding: 15px;
+}
+
+head.titulo
+{
+    align-items: 0, auto;
+}
+
+header .container
+{
+    display: flex;
+    justify-items: space-between;
+}
+.container
+{
+    width: 1140px;
+    margin: 0, auto, 0, auto;
+    align-items: center;
+}
+
+header .container .logo
+{
+    width: 150px;
+    height: 150px;
+}
+header .container a
+{
+    color:  #dda15e;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5ebe0;
+    background-image: url("img/Postres/logo.png");
+}
+a
+{
+    display: inline-block;
+}
+.main
+{
+    margin: 0 auto;
+    color: #b5838d;
+}
+
+.titulo{
+    color: #d4a373;
+    text-shadow: 2px #edede9;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
